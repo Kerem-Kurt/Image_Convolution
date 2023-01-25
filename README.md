@@ -11,3 +11,11 @@ This software can do 2 things:
 
 ![ex3](https://user-images.githubusercontent.com/121832450/214449543-779bfd78-07f0-47bb-89ad-8607f65415ba.jpg) ![ex3_changed](https://user-images.githubusercontent.com/121832450/214449578-cd67e08e-d91c-4b40-bf20-e7a5c9ef04ee.jpg) ______________ ![ex4](https://user-images.githubusercontent.com/121832450/214449606-75dea032-ac1f-42e3-954d-64b16ef7e3f1.jpg)    ![ex4_changed](https://user-images.githubusercontent.com/121832450/214449628-110ae490-0a48-48b1-87d3-07b268d60a0f.jpg)
 
+2- It can do Image convolution with a given filter.(In my examples I have vertical, horizontal and gaussian filters)
+
+First Image:![img3](https://user-images.githubusercontent.com/121832450/214450648-2d312cbf-2600-4e8b-85ac-af13d0b95c81.jpg)
+
+Horizontal Convolution:![img3_horizontal_convolution](https://user-images.githubusercontent.com/121832450/214450674-d77cf867-0d71-4b48-bacf-c984991f5628.jpg) 
+
+Vertical Convolution: ![img3_vertical_convolution](https://user-images.githubusercontent.com/121832450/214450702-2f2db5c7-9795-48ec-a05d-7deef6297acf.jpg)
+
