@@ -1,7 +1,6 @@
 # Image_Convolution
 Image convolution and averaging operation with pgm files
 <br><br>
-<br>
 
 <h3> 1- It can do Image convolution with a given filter. </h3>
 (In my examples I have vertical, horizontal and gaussian filters)
