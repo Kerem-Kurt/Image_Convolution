@@ -36,7 +36,7 @@ Input taking part consists of 4 inputs:
 
 2- The operation ( "1" for pgm files(black and white) , "2" for ppm files(convolution))
 
-[The rest is only necessary if operation "2" is selected]
+<b>[The rest is only necessary if operation "2" is selected]</b>
 
 3- Name of the convolution filter file (horizontal, vertical, gaussian etc.)
 
