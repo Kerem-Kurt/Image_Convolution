@@ -7,7 +7,8 @@ This software can do 2 things:
 
 First Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Horizontal Convolution &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vertical Convolution
 
-![img3](https://user-images.githubusercontent.com/121832450/214450779-cb4def86-b888-43ac-b770-e2a06ccedd3c.jpg) &nbsp; &nbsp; &nbsp; ![img3_horizontal_convolution](https://user-images.githubusercontent.com/121832450/214450789-a86857de-8273-43b4-976a-8e8af474987e.jpg) &nbsp; &nbsp; &nbsp;![img3_vertical_convolution](https://user-images.githubusercontent.com/121832450/214450823-08c09790-768a-40f9-8457-c359d010ec9f.jpg)
+![img3](https://user-images.githubusercontent.com/121832450/214450779-cb4def86-b888-43ac-b770-e2a06ccedd3c.jpg) &nbsp; &nbsp; &nbsp; ![img3_horizontal_convolution](https://user-images.githubusercontent.com/121832450/214450789-a86857de-8273-43b4-976a-8e8af474987e.jpg) &nbsp; &nbsp; &nbsp;![img3_vertical_convolution](https://user-images.githubusercontent.com/121832450/214450823-08c09790-768a-40f9-8457-c359d010ec9f.jpg) &nbsp; &nbsp; &nbsp; ![img3](https://user-images.githubusercontent.com/121832450/214451360-8db3eb60-e2fa-488b-b45f-0ee69a3110f3.jpg)
+ 
 
 Second Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Horizontal Convolution &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vertical Convolution
 
