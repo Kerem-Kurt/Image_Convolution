@@ -1,7 +1,6 @@
 # Image_Convolution
 Image convolution and averaging operation with pgm files
 <br><br>
-This software can do 2 things:<br>
 (All images are resized for easier understanding)
 <br>
 
