@@ -27,3 +27,14 @@ Second Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nb
 
 <br><br><br>
 (All images are resized for easier understanding)
+
+<h3> How to use my code? </h3>
+
+Input taking part consists of 4 inputs 
+1- The name of the image file we want to change
+2- The operation ( "1" for pgm files(black and white) , "2" for ppm files(convolution))
+[The rest is only necessary if operation "2" is selected]
+3- Name of the convolution filter file (horizontal, vertical, gaussian etc.)
+4- Stride length
+
+!!! Output is given in a format that it is easier to understand
