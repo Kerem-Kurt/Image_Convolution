@@ -13,7 +13,7 @@ First Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 
 Second Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Horizontal Convolution &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Vertical Convolution &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Gaussian Convolution
 
-![img4](https://user-images.githubusercontent.com/121832450/214452591-1e812062-b009-4a81-8182-3c765f3f46a4.jpg) &nbsp; &nbsp; ![img4_horizontal_convolution](https://user-images.githubusercontent.com/121832450/214452689-be0c33af-e2e8-42ec-8a5e-fad97b4df96b.jpg) &nbsp; &nbsp; ![img4_vertical_convolution](https://user-images.githubusercontent.com/121832450/214452695-e44e63ab-aeaf-47a6-b9e8-c190d5f0035a.jpg) &nbsp; &nbsp;  ![img4_gaussian_convolution](https://user-images.githubusercontent.com/121832450/214452708-8d36aa54-fa57-4de8-b2fd-55c1431d2afb.jpg)
+![img4](https://user-images.githubusercontent.com/121832450/214452591-1e812062-b009-4a81-8182-3c765f3f46a4.jpg) &nbsp; ![img4_horizontal_convolution](https://user-images.githubusercontent.com/121832450/214452689-be0c33af-e2e8-42ec-8a5e-fad97b4df96b.jpg) &nbsp; ![img4_vertical_convolution](https://user-images.githubusercontent.com/121832450/214452695-e44e63ab-aeaf-47a6-b9e8-c190d5f0035a.jpg) &nbsp; ![img4_gaussian_convolution](https://user-images.githubusercontent.com/121832450/214452708-8d36aa54-fa57-4de8-b2fd-55c1431d2afb.jpg)
 
 <br><br>
 
