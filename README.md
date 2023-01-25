@@ -6,9 +6,8 @@ This software can do 2 things:
 (All images are resized for easier understanding)
 <br><br><br>
 <h2> 1- It can do Image convolution with a given filter. </h2>
-
 (In my examples I have vertical, horizontal and gaussian filters)
-
+<br><br>
 First Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Horizontal Convolution &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vertical Convolution
 
 ![img3](https://user-images.githubusercontent.com/121832450/214450779-cb4def86-b888-43ac-b770-e2a06ccedd3c.jpg) &nbsp; &nbsp; &nbsp; ![img3_horizontal_convolution](https://user-images.githubusercontent.com/121832450/214450789-a86857de-8273-43b4-976a-8e8af474987e.jpg) &nbsp;  &nbsp; &nbsp; ![img3_vertical_convolution](https://user-images.githubusercontent.com/121832450/214450823-08c09790-768a-40f9-8457-c359d010ec9f.jpg)
