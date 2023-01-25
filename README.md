@@ -1,9 +1,9 @@
 # Image_Convolution
 Image convolution and averaging operation with pgm files
-
+<br><br>
 This software can do 2 things:<br>
 (All images are resized for easier understanding)
-<br><br>
+<br>
 
 <h3> 1- It can do Image convolution with a given filter. </h3>
 (In my examples I have vertical, horizontal and gaussian filters)
