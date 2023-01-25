@@ -1,7 +1,6 @@
 # Image_Convolution
 Image convolution and averaging operation with pgm files
 <br><br>
-(All images are resized for easier understanding)
 <br>
 
 <h3> 1- It can do Image convolution with a given filter. </h3>
@@ -27,4 +26,5 @@ Second Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nb
 <br><br><br>
 ![ex3](https://user-images.githubusercontent.com/121832450/214449543-779bfd78-07f0-47bb-89ad-8607f65415ba.jpg) ![ex3_changed](https://user-images.githubusercontent.com/121832450/214449578-cd67e08e-d91c-4b40-bf20-e7a5c9ef04ee.jpg) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![ex4](https://user-images.githubusercontent.com/121832450/214449606-75dea032-ac1f-42e3-954d-64b16ef7e3f1.jpg)    ![ex4_changed](https://user-images.githubusercontent.com/121832450/214449628-110ae490-0a48-48b1-87d3-07b268d60a0f.jpg)
 
-
+<br><br><br>
+(All images are resized for easier understanding)
