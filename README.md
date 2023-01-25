@@ -5,7 +5,7 @@ This software can do 2 things:
 
 (All images are resized for easier understanding)
 <br><br><br>
-1- It can do Image convolution with a given filter.(In my examples I have vertical, horizontal and gaussian filters)
+<h2> 1- It can do Image convolution with a given filter.(In my examples I have vertical, horizontal and gaussian filters) </h2>
 
 First Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Horizontal Convolution &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vertical Convolution
 
