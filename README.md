@@ -1,11 +1,11 @@
 # Image_Convolution
 Image convolution and averaging operation with pgm files
 
-This software can do 2 things:
-
+This software can do 2 things:<br>
 (All images are resized for easier understanding)
 <br><br><br>
-<h2> 1- It can do Image convolution with a given filter. </h2>
+
+<h3> 1- It can do Image convolution with a given filter. </h3>
 (In my examples I have vertical, horizontal and gaussian filters)
 <br><br>
 First Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Horizontal Convolution &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vertical Convolution
@@ -20,7 +20,7 @@ Second Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nb
 
 <br><br>
 
-2- It can group the areas that are seperated by black color in a pgm file and color every pixel there to the average of the group.
+<h3> 2- It can group the areas that are seperated by black color in a pgm file and color every pixel there to the average of the group.  </h3>
 
 (Normally all the colors are the same at the same region (You can check from the output section), but while converting the file to jpg format there were some troubles I didn't understand)
 
