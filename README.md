@@ -9,6 +9,12 @@ First Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 
 ![img3](https://user-images.githubusercontent.com/121832450/214450779-cb4def86-b888-43ac-b770-e2a06ccedd3c.jpg) &nbsp; &nbsp; &nbsp; ![img3_horizontal_convolution](https://user-images.githubusercontent.com/121832450/214450789-a86857de-8273-43b4-976a-8e8af474987e.jpg) &nbsp; &nbsp; &nbsp;![img3_vertical_convolution](https://user-images.githubusercontent.com/121832450/214450823-08c09790-768a-40f9-8457-c359d010ec9f.jpg)
 
+Second Image &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Horizontal Convolution &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vertical Convolution
+
+
+
+
+
 2- It can group the areas that are seperated by black color in a pgm file and color every pixel there to the average of the group.
 
 (Normally all the colors are the same at the same region (You can check from the output section), but while converting the file to jpg format there were some troubles I didn't understand)
